@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello">Hola món amb layout!</string>
+    <string name="respostes">He canviat el valor del parametre hello a strings.xml\r\nS\'executen les funcions onPause() i onStop()</string>
+</resources>
